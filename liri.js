@@ -55,7 +55,7 @@ function showSong(){
 
 	//if song name is not entered by the user, default the song name
 	if(songName === ""){
-		songName = "The Sign";
+		songName = "The Sign Ace of Base";
 	}
 
 	//call Spotify API and display the data to console
